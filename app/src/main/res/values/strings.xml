@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Mate para niños</string>
+    <string name="btn1"></string>
+    <string name="btn2"></string>
+    <string name="btn3"></string>
+    <string name="btn4"></string>
+    <string name="btn5"></string>
+    <string name="btn6"></string>
+    <string name="textview"></string>
+    <string name="textview2"></string>
+    <string name="textview3"></string>
+    <string name="textview4"></string>
+    <string name="textview5"></string>
+    <string name="textview6"></string>
+    <string name="cuadro1">10</string>
+    <string name="cuadro2">20</string>
+    <string name="res1">30</string>
+    <string name="btnsum1">30</string>
+    <string name="btnsum2">20</string>
+    <string name="btnsum3">15</string>
+    <string name="btnevaular">Evaluar</string>
+    <string name="cuadro3">10</string>
+    <string name="cuadro4">40</string>
+    <string name="resultado2">50</string>
+    <string name="btnsum21">50</string>
+    <string name="btnsum22">45</string>
+    <string name="btnsum23">40</string>
+    <string name="btnevaluar2">Evaluar</string>
+    <string name="vidas">VIDAS</string>
+    <string name="mayorque"> =</string>
+    <string name="btnretry">OTRA VEZ</string>
+    <string name="btninicio">Inicio</string>
+    <string name="btnfacil"> FACIL</string>
+    <string name="btnmedio"> MEDIO </string>
+    <string name="btndificil"> DIFICIL</string>
+    <string name="btn1jugador"> 1 JUGADOR </string>
+    <string name="btn2jugadores"> 2 JUGADORES</string>
+
+</resources>
